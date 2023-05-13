@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dialogue-app/static/css/main.cd963308.css",
+    "main.js": "/dialogue-app/static/js/main.660bf5ea.js",
+    "static/js/787.633816a4.chunk.js": "/dialogue-app/static/js/787.633816a4.chunk.js",
+    "index.html": "/dialogue-app/index.html",
+    "main.cd963308.css.map": "/dialogue-app/static/css/main.cd963308.css.map",
+    "main.660bf5ea.js.map": "/dialogue-app/static/js/main.660bf5ea.js.map",
+    "787.633816a4.chunk.js.map": "/dialogue-app/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd963308.css",
+    "static/js/main.660bf5ea.js"
+  ]
+}
